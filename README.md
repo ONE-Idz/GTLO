@@ -52,7 +52,7 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 ---   
 
 [![](https://img.shields.io/badge/Whatsapp-JUN-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282196816220?text=Permisi+Sob!)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.comjun.WA08988884579)
 
 ---
 - <a href="https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file">Thanks☕👈</a> [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/1687113821-114.125.180.53.png)](https://wa.me/6282196816220?text=Permisi+Sob!)[![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
