@@ -37,7 +37,7 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
   
     GUNAKAN DENGGAN BIJAK,
     APAPUN YANG TERJADI BUKAN 
-    TANGGUNG ADMIN
+    TANGGUNG JAWAB DEVELOPER
     
 [![](https://github.com/ONE-Idz/JunPakaya04/blob/main/FB_IMG_16860211287100780.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
     
