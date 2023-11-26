@@ -1,10 +1,4 @@
 
--    
-
-
-###### Tetap Semanggat Janggan Lupa Colm3x [![](https://github.com/ONE-Idz/JunRecode/blob/main/Screenshot_2023-06-21-00-31-59-501_com.termux.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
-
-
 -
 
 <h5 align="left">INSTALL COMAND IN TERMUX:</h5>
@@ -13,20 +7,15 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 
 - - -
 
-    $ termux-setup-storage
+    $ pkg update && pkg upgrade
     $ pkg install python git
-    $ pkg install play-audio
-    $ pip install requests mechanize
-    $ pip install stdiomask
-    $ pip install rich bs4
-    $ pip install modul requests
+    $ pkg install play-audio -y
     $ pip install --upgrade pip
-    $ git clone https://github.com/ONE-Idz/haecerjoin
-    $ ls
-    $ cd haecerjoin
-    $ apt update && apt upgrade
-    $ apt install openssl
-    $ ls && python zmbf.py
+    $ pip install requests mechanize
+    $ pip install requests
+    $ git clone https://github.com/ONE-Idz/GTLO
+    $ cd GTLO && ls
+    $ python run.py
 
 
 
@@ -35,7 +24,7 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
 <h5 align="left">How To Update Script:</h5>
 
 
-    $ cd haecerjoin
+    $ cd GTLO
     $ ls
     $ git pull
 
