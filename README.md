@@ -12,7 +12,6 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
     $ pkg install play-audio -y
     $ pip install --upgrade pip
     $ pip install requests mechanize
-    $ pip install requests
     $ git clone https://github.com/ONE-Idz/GTLO
     $ cd GTLO && ls
     $ python run.py
